@@ -18,7 +18,7 @@ https://www.rocketseat.com.br/
 
     </Aluna>
         </Irene Silva França>
-      </Professos>
+      </Professor>
     < Mayk Brito/>
     
    ### Adaptação para Tabela ###
@@ -27,4 +27,7 @@ https://www.rocketseat.com.br/
 
     
     
-https://github.com/issf69/maratona-explorer-3/issues/3#issue-1372156980
+###
+
+![frame (1)](https://user-images.githubusercontent.com/105497075/190032804-08dd552a-7913-44aa-b959-0b73195320a4.png)
+
