@@ -23,11 +23,7 @@ https://www.rocketseat.com.br/
     
    ### Adaptação para Tabela ###
    
- https://graceful-lamington-dde4fb.netlify.app/
+   ###
 
-    
-    
-###
-
-![frame (1)](https://user-images.githubusercontent.com/105497075/190032804-08dd552a-7913-44aa-b959-0b73195320a4.png)
+![frame (2)](https://user-images.githubusercontent.com/105497075/190033159-dd22d6e6-40ef-40be-9810-bb1a97940f71.png)
 
