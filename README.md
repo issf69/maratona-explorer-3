@@ -21,7 +21,7 @@ https://www.rocketseat.com.br/
       </Professor>
     < Mayk Brito/>
     
-   ### Adaptação para Tabela ###
+   
    
   
 
