@@ -23,7 +23,5 @@ https://www.rocketseat.com.br/
     
    ### Adaptação para Tabela ###
    
-   ###
-
-![frame (2)](https://user-images.githubusercontent.com/105497075/190033159-dd22d6e6-40ef-40be-9810-bb1a97940f71.png)
+  
 
